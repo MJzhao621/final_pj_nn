@@ -1,2 +1,3 @@
-# final_pj_nn
+# Final PJ
 Deep Learning and Neural Network Final PJ
+## Question 1
